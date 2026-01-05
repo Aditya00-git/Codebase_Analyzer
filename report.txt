@@ -1,0 +1,31 @@
+CODEBASE ANALYSIS REPORT
+==============================
+
+Total files: 15
+Total folders: 3
+
+Line Statistics:
+  Total lines: 255
+  Empty lines: 56
+  Code lines: 199
+
+Languages Used:
+  Python: 13
+  Text: 2
+
+Largest Files:
+  .\cli\commands.py - 1574 bytes
+  .\reports\report_writer.py - 1113 bytes
+  .\analyzer\language_detector.py - 845 bytes
+  .\analyzer\empty_finder.py - 815 bytes
+  .\analyzer\file_stats.py - 716 bytes
+
+Empty Files:
+  .\constants.py
+  .\README.txt
+  .\utils.py
+  .\analyzer\__init__.py
+  .\cli\__init__.py
+
+Small Files:
+  .\requirements.txt (1 lines)
