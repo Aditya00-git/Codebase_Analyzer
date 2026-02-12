@@ -52,25 +52,13 @@ No heavy dependencies. No setup pain.
 ---
 
 #  Installation
-
-## Option 1 — Local install (current)
-
-```bash
-git clone https://github.com/<your-username>/codescope.git
-cd codescope
-pip install -e .
-```
-
 ---
 
-## Option 2 — PyPI (future)
-
-After publishing:
+## Option 1 — PyPI 
 
 ```bash
-pip install codescope
+pip install codescope-cli
 ```
-
 ---
 
 #  Usage
